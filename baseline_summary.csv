@@ -1,0 +1,8 @@
+Metric,Count,Percentage
+Always-small accuracy,49,98.0
+Always-large accuracy,50,100.0
+Oracle accuracy,50,100.0
+Both correct,49,98.0
+Only small correct,0,0.0
+Only large correct,1,2.0
+Both unsuccessful,0,0.0

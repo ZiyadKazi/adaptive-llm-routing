@@ -1,0 +1,3 @@
+model,questions,mean_input_tokens,mean_output_tokens,mean_latency_seconds,mean_estimated_cost_usd,total_estimated_cost_usd,accuracy_percent
+large,50,162.98,476.62,1.2747186298399538,0.000310419,0.015520949999999999,100.0
+small,50,162.98,577.4,0.8554329996399747,0.00018544350000000001,0.009272175,98.0
